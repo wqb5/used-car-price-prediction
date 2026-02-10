@@ -21,6 +21,6 @@ Machine learning project for predicting used car prices (Regression) and transmi
 - Matplotlib
 
 ## Files
-- project1_cars.py → Main modeling script
-- project1_plots.py → Visualization script
+- model_training.py → Regression & classification training pipeline
+- visualization.py → Data visualization & EDA script
 - 261_project_report.pdf → Project report
